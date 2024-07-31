@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Wecome to KK FUNDA YOUTUBE CHANNEL</h1>
-<h1 align="center"> KK FUNDA DEVOPS WITH AWS AND SRE and DevSecOps</h1>
+<h1 align="center"> KK FUNDA DEVOPS WITH AWS AND SRE and JAVA</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
