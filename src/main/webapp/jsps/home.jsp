@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KK FUNDA NELLORE AP 524309</h1>
+<h1 align="center">Welcome to KK FUNDA NELLORE Andhra Pradesh</h1>
 <h1 align="center"> KK FUNDA DEVOPS WITH AWS AND SRE and SQl</h1>
 <hr>
 <br>
