@@ -12,10 +12,10 @@ node
    {
       sh "${mavenHome}/bin/mvn clean package"
    }
-    stage('SonarQube report')
+   /* stage('SonarQube report')
    {
       sh "${mavenHome}/bin/mvn clean sonar:sonar"
-   }
+   } */
 
    stage('Deploy artifactt')
    {
