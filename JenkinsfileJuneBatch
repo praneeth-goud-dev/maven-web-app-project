@@ -15,7 +15,7 @@ node
    /* stage('SonarQube report')
    {
       sh "${mavenHome}/bin/mvn clean sonar:sonar"
-   } */
+   } 
 
    stage('Deploy artifactt')
    {
@@ -31,7 +31,7 @@ node
     
       }
      
-   }
+   } */
    
 }//node ending 
 
