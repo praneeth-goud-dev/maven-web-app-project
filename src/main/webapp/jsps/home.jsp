@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">WELCOME TO KKFUNDA AWS SQ</h1>
-<marquee><h1 align="center"> KK FUNDA YOUTUBE kkdevops.co</h1></marquee>
+<marquee><h1 align="center"> KK FUNDA YOUTUBE </h1></marquee>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
