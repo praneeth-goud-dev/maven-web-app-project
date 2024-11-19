@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to jio</h1>
-<h1 align="center"> Jio -feature </h1>
+<h1 align="center"> Jio -feature-scm </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
