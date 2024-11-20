@@ -1,7 +1,7 @@
 node 
 {
 
-
+properties([pipelineTriggers([pollSCM('* * * * *')])])
  
 def mavenHome = tool name : "maven 3.9.8"
 
