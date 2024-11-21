@@ -3,6 +3,8 @@ node {
 def mavenHome = tool name : "maven 3.9.8"
 
 	try {
+
+	notifyBuild('STARTED')
 	
 	stage('git checkout')
 	{
@@ -72,4 +74,3 @@ def notifyBuild(String buildStatus = 'STARTED') {
   // Send notifications
   slackSend (color: colorCode, message: summary)
 }
-
