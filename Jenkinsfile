@@ -43,6 +43,7 @@ def mavenHome = tool name : "maven 3.9.8"
 	// Success or failure, always send notifications
 
 	notifyBuild(currentBuild.result)
+	}
 
 	}//node ending
 
