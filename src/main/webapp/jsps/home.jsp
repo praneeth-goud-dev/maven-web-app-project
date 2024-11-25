@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Jio</h1>
-<h1 align="center"> Jio - Private IP</h1>
+<h1 align="center"> Jio - Private IP - TC</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
