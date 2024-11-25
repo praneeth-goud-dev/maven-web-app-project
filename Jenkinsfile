@@ -29,7 +29,7 @@ def mavenHome = tool name : "maven 3.9.8"
 	stage('deploy')
 	{
 	sshagent(['15872549-6327-4233-a5e0-2faae3a6c88a']) {
-   	 sh "scp -o StrictHostKeyChecking=no /var/lib/jenkins/workspace/scripted-pl/target/maven-web-application.war ec2-user@3.110.189.239:/opt/apache-tomcat-9.0.97/webapps/"
+   	 sh "scp -o StrictHostKeyChecking=no /var/lib/jenkins/workspace/scripted-pl/target/maven-web-application.war ec2-user@172.31.0.212:/opt/apache-tomcat-9.0.97/webapps/"
 	}
 	}
 	
