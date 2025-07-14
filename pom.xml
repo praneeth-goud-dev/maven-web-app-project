@@ -5,7 +5,11 @@
 	<groupId>com.kk</groupId>
 	<artifactId>maven-web-application-kkfunda</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1</version>
+	<version>0.0.1</version>     <!-- This is the project's version -->
+	
+	 <!-- <version>0.0.1-release<version>   sends artifact only to Release repo
+	      <version>0.0.1-snapshot<version>  sends artifact only to snapshot repo
+	 -->
 	
 	<name>maven-web-application</name>
 
